@@ -1,5 +1,4 @@
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 ![Tests](https://img.shields.io/badge/tests-manual-blue)
 ![Platform](https://img.shields.io/badge/platform-OpenCart-green)
 ![Language](https://img.shields.io/badge/docs-Markdown-lightgrey)
@@ -25,4 +24,5 @@ Role: QA Engineer
 - Test Plan completed  
 - Bug Reports documented  
 - Test Cases executed  
+
 
